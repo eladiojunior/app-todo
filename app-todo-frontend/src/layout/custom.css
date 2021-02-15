@@ -1,0 +1,11 @@
+.btn {
+    margin-right: 5px;
+}
+.tarefa-concluida {
+    text-decoration: line-through;
+    color: #777777;
+}
+
+.todoForm {
+    padding-bottom: 50px;
+}
